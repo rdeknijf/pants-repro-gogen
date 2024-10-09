@@ -1,0 +1,7 @@
+[GLOBAL]
+pants_version = "2.22.0"
+backend_packages = [
+
+  "pants.backend.experimental.codegen.protobuf.go",
+  "pants.backend.experimental.go",
+]
